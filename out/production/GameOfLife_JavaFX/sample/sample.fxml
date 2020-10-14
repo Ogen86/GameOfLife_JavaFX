@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+
+<BorderPane minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+    <top>
+        <MenuBar BorderPane.alignment="CENTER">
+            <menus>
+                <Menu mnemonicParsing="false" text="_File">
+                    <items>
+                        <MenuItem fx:id="menuExit" mnemonicParsing="false" onAction="#exitButtonClicked" text="Exit" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="_Help">
+                    <items>
+                        <MenuItem fx:id="menuRules" mnemonicParsing="false" onAction="#rulesButtonClicked" text="Rules" />
+                    </items>
+                </Menu>
+            </menus>
+        </MenuBar>
+    </top>
+    <right>
+        <VBox alignment="CENTER" prefWidth="80.0" BorderPane.alignment="CENTER">
+            <children>
+                <Button fx:id="startButton" mnemonicParsing="false" onAction="#startButtonClicked" text="Start" />
+            </children>
+        </VBox>
+    </right>
+    <center>
+        <Pane fx:id="gamePane" minHeight="600.0" minWidth="800.0" BorderPane.alignment="CENTER" />
+    </center>
+</BorderPane>

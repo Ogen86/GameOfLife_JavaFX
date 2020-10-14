@@ -1,0 +1,30 @@
+
+c
+java:S1192!"FDefine a constant instead of duplicating this literal "Start" 3 times.(Ó•ßú8ú×ÓÅÒ.
+g
+java:S2184E"ECast one of the operands of this subtraction operation to a "double".(ÜÊÇÒıÿÿÿÿ8ú×ÓÅÒ.
+g
+java:S2184E"ECast one of the operands of this subtraction operation to a "double".(ÜÊÇÒıÿÿÿÿ8ú×ÓÅÒ.
+j
+java:S2184P"HCast one of the operands of this multiplication operation to a "double".(µœÀ˜ùÿÿÿÿ8ú×ÓÅÒ.
+j
+java:S2184Q"HCast one of the operands of this multiplication operation to a "double".(Ãƒùßÿÿÿÿÿ8ú×ÓÅÒ.
+]	java:S110@"<This class has 6 parents which is greater than 5 authorized.(‹ÑËÅşÿÿÿÿ8ú×ÓÅÒ.
+M
+java:S5411¡"*Use the primitive boolean expression here.(¹èŒåşÿÿÿÿ8ú×ÓÅÒ.
+t
+java:S1104"WMake startButton a static final constant or non-public and provide accessors if needed.(¦Ñğñ8ú×ÓÅÒ.
+v
+java:S1104"TMake gamePane a static final constant or non-public and provide accessors if needed.(ú²­áûÿÿÿÿ8ú×ÓÅÒ.
+”
+java:S1130 "wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(¨¶8ú×ÓÅÒ.
+c
+java:S2142'"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ú×ÓÅÒ.
+_
+java:S1126U"BReplace this if-then-else statement by a single method invocation.(Œ÷8ú×ÓÅÒ.
+`
+java:S1126ƒ"BReplace this if-then-else statement by a single method invocation.(Ôß®¨8ú×ÓÅÒ.
+G
+java:S1068A"%Remove this unused "x" private field.(ĞÇñüÿÿÿÿ8ú×ÓÅÒ.
+G
+java:S1068B"%Remove this unused "y" private field.(Ê€ÄŒøÿÿÿÿ8ú×ÓÅÒ.
